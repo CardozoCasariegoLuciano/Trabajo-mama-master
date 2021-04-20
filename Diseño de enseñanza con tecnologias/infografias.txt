@@ -61,11 +61,33 @@ Saludos Claudia
 
 
 
+Reentregar:
+
+paso mal el link:
+
+Hola ...
+El enlace que enviaste no es el correcto, por favor revisa la clase donde se indica cómo compartir la infografía.
+Tu compañero todavía no entregó su trabajo, no puedo evaluarlos hasta que ambos realicen la entrega 
+estoy a la espera de tu re-entrega
+Saludos
+
+
+su compañero no mando su trabajo:
+
+Hola ...
+Tu compañero todavía no entregó su trabajo, no puedo evaluarlos hasta que ambos realicen la entrega 
+
+Saludos
 
 
 
 
 
+Entregaron solos:
+
+se le agrega esto 
+
+	Lamento mucho que no hayas experimentado el trabajo colaborativo en esta actividad.
 
 
 
