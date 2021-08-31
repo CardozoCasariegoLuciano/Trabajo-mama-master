@@ -14,7 +14,7 @@ Actividad aprobada
 
 8
 
-El formulario enviado  esta muy bien diseñado demostrando habilidades para el desarrollo de esta herramienta web como instrumento de evaluación. Como observacón falto desarrollar 4 tipos distintos de preguntas
+El formulario enviado  esta muy bien diseñado demostrando habilidades para el desarrollo de esta herramienta web como instrumento de evaluación. Como observación falto desarrollar 4 tipos distintos de preguntas
 
 ¡Actividad aprobada!
 
@@ -43,3 +43,11 @@ Hola
 El formulario enviado cumple con los puntos solicitado en la consigna, salvo convertir el formulario en cuestionario calificable e incluir un encabezado con una imagen tal como solicita la consigna.
 
 ¡Actividad aprobada!
+
+
+8
+
+Hola 
+
+Buen trabajo con la herramienta Web. Como observación te falto hacer el cuestionario evaluable y no cumple con la cantidad de 6 preguntas tal como solicita la consigna.
+Actividad aprobada
