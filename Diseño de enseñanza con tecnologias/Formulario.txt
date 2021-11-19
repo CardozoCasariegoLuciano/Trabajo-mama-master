@@ -60,3 +60,10 @@ Hola
 Por favor revisa el link me enviaste y volvé a entregarlo porque no puedo abrirlo
 
 Saludos
+
+
+
+-----------
+
+Como observación, para usar el formulario con tus estudiantes deberás compartir el link que se genera con la vista previa (el icono con la forma de ojo) 
+
