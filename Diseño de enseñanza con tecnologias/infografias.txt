@@ -1,6 +1,6 @@
 Nota 10 --------------------------------------
 
-Hola ... y ... 
+Hola ...
 
 La Infografía presentada recupera los conceptos centrales del marco teórico que han trabajado. Han enriquecido la producción con otros recursos, demostrando un excelente uso de la herramienta web.
 
@@ -13,7 +13,7 @@ Claudia
 --------------------
 
 
-Hola ... y ...!!
+Hola ... !!
 
 La Infografía presentada recupera los conceptos centrales del marco teórico que han trabajado. Han enriquecido la producción con otros recursos, demostrando un excelente uso de la herramienta web. Como observación el link que compartiste no es correcto, pude ver el trabajo por el link que entrego tu compañerXXXX.
 
@@ -80,11 +80,13 @@ Reentregar:
 
 paso mal el link:
 
-Hola ...
+Hola ...!
+
 El enlace que enviaste no es el correcto, por favor revisa la clase donde se indica cómo compartir la infografía.
-Tu compañero todavía no entregó su trabajo, no puedo evaluarlos hasta que ambos realicen la entrega 
-estoy a la espera de tu re-entrega
+
+Estoy a la espera de tu re-entrega
 Saludos
+
 
 
 su compañero no mando su trabajo:
@@ -127,6 +129,12 @@ Buen manejo de la aplicación
 Actividad aprobada
 
 Saludos
+
+
+
+Tiene unos cuantos "Lorems"
+
+Como observación les quedaron recursos con el texto por defecto "lorem ipsum" que podrían haber eliminado o completado
 
 
 

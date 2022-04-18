@@ -1,12 +1,26 @@
 8
-El formulario enviado cumple con los puntos solicitados en la consigna, salvo convertir el formulario en cuestionario calificable. 
+Hola ...
+
+El formulario enviado cumple con los puntos solicitados en la
+consigna, salvo convertir el formulario en cuestionario calificable.
+
+¡Actividad aprobada!
+
+----------------------
+
+Hola ...
+
+El formulario enviado cumple con los puntos solicitados en la 
+consigna, salvo convertir el formulario en cuestionario calificable
+ (solo a dos preguntas le habilitaste el puntaje).
 
 ¡Actividad aprobada!
 
 
 7
-
-buen trabajo con la herramienta Web. Como observación te falto hacer el cuestionario evaluable y no agregaste cuatro preguntas de tipo distinto
+Hola ...
+Buen trabajo con la herramienta Web. Como observación te falto hacer 
+el cuestionario evaluable y no agregaste cuatro preguntas de tipo distinto
 
 Actividad aprobada
 
@@ -14,14 +28,16 @@ Actividad aprobada
 
 8
 
-El formulario enviado  esta muy bien diseñado demostrando habilidades para el desarrollo de esta herramienta web como instrumento de evaluación. Como observación falto desarrollar 4 tipos distintos de preguntas
+El formulario enviado  esta muy bien diseñado demostrando habilidades 
+ara el desarrollo de esta herramienta web como instrumento de evaluación. 
+Como observación falto desarrollar 4 tipos distintos de preguntas
 
 ¡Actividad aprobada!
 
 
 
 10
-Hola
+Hola ...
 
 El formulario enviado cumple satisfactoriamente con cada punto solicitado en la consigna, demostrando habilidades para el desarrollo de esta herramienta web como instrumento de evaluación.
 
@@ -29,18 +45,14 @@ El formulario enviado cumple satisfactoriamente con cada punto solicitado en la 
 
 
 
-6
-
-Hola 
-Buen uso de la herramienta web, como observación tu trabajo no cumple con los requisitos 1,2,3 ni 4 solicitados en la consigna.
-
-
 
 8
 
 Hola 
 
-El formulario enviado cumple con los puntos solicitado en la consigna, salvo convertir el formulario en cuestionario calificable e incluir un encabezado con una imagen tal como solicita la consigna.
+El formulario enviado cumple con los puntos solicitado en la consigna, salvo 
+convertir el formulario en cuestionario calificable e incluir un encabezado 
+con una imagen tal como solicita la consigna.
 
 ¡Actividad aprobada!
 
@@ -49,7 +61,8 @@ El formulario enviado cumple con los puntos solicitado en la consigna, salvo con
 
 Hola 
 
-Buen trabajo con la herramienta Web. Como observación te falto hacer el cuestionario evaluable y no cumple con la cantidad de 6 preguntas tal como solicita la consigna.
+Buen trabajo con la herramienta Web. Como observación te falto hacer el cuestionario 
+evaluable y no cumple con la cantidad de 6 preguntas tal como solicita la consigna.
 Actividad aprobada
 
 
@@ -61,6 +74,13 @@ Por favor revisa el link me enviaste y volvé a entregarlo porque no puedo abrir
 
 Saludos
 
+
+Hola 
+
+Por favor revisa el link me enviaste y volvé a entregarlo porque no puedo abrirlo.
+El que tenes que enviar es el que se genera al hacer clic en el icono del ojito
+
+Saludos
 
 
 -----------
