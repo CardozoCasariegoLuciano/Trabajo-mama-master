@@ -1,8 +1,7 @@
 8
 Hola ...
 
-El formulario enviado cumple con los puntos solicitados en la
-consigna, salvo convertir el formulario en cuestionario calificable.
+El formulario enviado cumple con los puntos solicitados en la consigna, salvo convertir el formulario en cuestionario calificable.
 
 ¡Actividad aprobada!
 
@@ -19,21 +18,18 @@ consigna, salvo convertir el formulario en cuestionario calificable
 
 7
 Hola ...
-Buen trabajo con la herramienta Web. Como observación te falto hacer 
-el cuestionario evaluable y no agregaste cuatro preguntas de tipo distinto
+Buen trabajo con la herramienta Web. Como observación te falto hacer el cuestionario evaluable y no agregaste cuatro preguntas de tipo distinto
 
 Actividad aprobada
 
 
 
 8
+Hola ...
 
-El formulario enviado  esta muy bien diseñado demostrando habilidades 
-ara el desarrollo de esta herramienta web como instrumento de evaluación. 
-Como observación falto desarrollar 4 tipos distintos de preguntas
+El formulario enviado esta muy bien diseñado demostrando habilidades ara el desarrollo de esta herramienta web como instrumento de evaluación. Como observación falto desarrollar 4 tipos distintos de preguntas
 
 ¡Actividad aprobada!
-
 
 
 10
@@ -50,9 +46,7 @@ El formulario enviado cumple satisfactoriamente con cada punto solicitado en la 
 
 Hola 
 
-El formulario enviado cumple con los puntos solicitado en la consigna, salvo 
-convertir el formulario en cuestionario calificable e incluir un encabezado 
-con una imagen tal como solicita la consigna.
+El formulario enviado cumple con los puntos solicitado en la consigna, salvo convertir el formulario encuestionario calificable e incluir un encabezado con una imagen tal como solicita la consigna.
 
 ¡Actividad aprobada!
 
@@ -64,6 +58,13 @@ Hola
 Buen trabajo con la herramienta Web. Como observación te falto hacer el cuestionario 
 evaluable y no cumple con la cantidad de 6 preguntas tal como solicita la consigna.
 Actividad aprobada
+
+6
+Hola ...!
+Buen trabajo con la herramienta Web. Como observación no agregaste cuatro preguntas de tipo distinto ni alcanzaste el mínimo de 6 preguntas.
+
+Actividad aprobada
+
 
 
 Reentregar:
@@ -87,3 +88,7 @@ Saludos
 
 Como observación, para usar el formulario con tus estudiantes deberás compartir el link que se genera con la vista previa (el icono con la forma de ojo) 
 
+
+
+
+Hola ..., necesito que me des acceso a tu trabajo para poder calificarlo, saludos
